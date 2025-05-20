@@ -1,6 +1,6 @@
 # Superstore Tableau Dashboard 📦📈
 
-This repository contains a Tableau dashboard project that analyzes the popular Superstore dataset. It provides interactive visuals for tracking sales performance, profit trends, shipping efficiency, and regional insights.
+This repository contains a Tableau dashboard project that analyzes the popular Superstore dataset. It provides interactive visuals for tracking sales performance, profit trends and regional insights.
 
 
 ## 📊 Dashboard Features
