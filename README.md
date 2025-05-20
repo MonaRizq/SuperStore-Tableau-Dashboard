@@ -16,7 +16,7 @@ This repository contains a Tableau dashboard project that analyzes the popular S
 ## 🛠️ Tools Used
 - Tableau Desktop
 - Superstore Dataset (by Tableau)
-- 
+  
 
 ## 🚀 Quick Insights
 - The West region leads in total profit, while the South shows low profitability.
