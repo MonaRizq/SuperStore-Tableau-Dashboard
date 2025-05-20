@@ -9,7 +9,7 @@ This repository contains a Tableau dashboard project that analyzes the popular S
 - 🚚 Shipping Performance and Delivery Trends
 - 🧩 Profit Ratio and Discount Impact
 - 🧭 Regional Heatmaps and Drill-Down Views
--     Forecasting to project future trends
+- Forecasting to project future trends
 - 👥 Segment Performance by Customer Type
 
 ## 🛠️ Tools Used
